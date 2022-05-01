@@ -1,0 +1,12 @@
+{
+    "name": "Stable One Rocket",
+    "type": "POLYGON",
+    "symbol": "SROCKET",
+    "decimals": 18,
+    "description": "The first decentralized DeFi Development DAO on the Polygon chain.",
+    "website": "https://srockettoken.io/",
+    "explorer": "https://polygonscan.com/address/0x94788309d420ad9f9f16d79fc13ab74de83f85f7",
+    "status": "active",
+    "id": "0x94788309d420ad9f9f16d79fc13ab74de83f85f7",
+    "tags": []
+}

@@ -141,6 +141,16 @@
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png",
             "pairs": []
+        },
+        {
+            "asset": "c966_t0x94788309d420ad9f9f16d79fc13ab74de83f85f7",
+            "type": "POLYGON",
+            "address": "0x94788309d420ad9f9f16d79fc13ab74de83f85f7",
+            "name": "Stable One Rocket",
+            "symbol": "SROCKET",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/polygon/assets/0x94788309d420ad9f9f16d79fc13ab74de83f85f7/logo.png",
+            "pairs": []
         }
     ],
     "version": {
